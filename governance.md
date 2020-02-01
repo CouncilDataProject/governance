@@ -11,7 +11,7 @@ All software developed by CDP is released under the [BSD](https://github.com/Cou
 
 The main current example of CDP Software is [cdpTools](https://github.com/CouncilDataProject/cdptools). 
 
-The Services run by the CDP consist of public websites and web-services that are hosted under the CDP Github organization, and currently include a [Seattle, WA](https://github.com/CouncilDataProject/seattle) instance of CDP and a planned instance for the City of [Bellevue, WA](https://github.com/CouncilDataProject/bellevue). 
+The Services run by CDP consist of public websites and web-services that are hosted under the CDP Github organization, and currently include a [Seattle, WA](https://github.com/CouncilDataProject/seattle) instance of CDP and a planned instance for the City of [Bellevue, WA](https://github.com/CouncilDataProject/bellevue). 
 
 CDP started out as a research project between Jackson Brown and Nic Weber at the [University of Washington Information School (iSchool)](https://ischool.uw.edu/) and they informally serve as CDP's fiscal sponsor for any grants received. In the future, we plan to transition CDP to an external fiscal sponsor that may hold project trademarks and other intellectual property, help manage project donations and acts as a parent legal entity. The UW iSchool is the only legal entity that has a relationship with CDP. 
 
