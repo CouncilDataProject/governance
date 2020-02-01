@@ -2,7 +2,7 @@
 
 The official version of this document, along with a list of individuals and institutions in the roles defined in the governance section below, is contained in CDPGovernance Repository at:
 
-[CDP Governance](https://github.com/jupyter/governance)
+[CDP Governance](https://github.com/CouncilDataProject/governance)
 
 ## The Project
 The Council Data Project (CDP) is an open source software project. The goal of CDP is to develop open source software, and to deploy open and public websites that provide enhanced transparency to the data produced by local governments. 
