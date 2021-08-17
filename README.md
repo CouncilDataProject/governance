@@ -1,2 +1,3 @@
 # governance
-A repository containg the governance documents for CDP. 
+
+A repository containing the governance documents for CDP. See [GOVERNANCE.md](./GOVERNANCE.md)
