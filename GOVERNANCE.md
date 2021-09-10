@@ -68,12 +68,7 @@ The Core Contributors for CDP are currently:
   - [Nic Weber](https://github.com/nniiicc/)
   - [Sarah Liu](https://github.com/sarahjliu)
   - [To Huynh](https://github.com/tohuynh)
-
-- **Repository Specific**
-
-  - [cdp-scrapers](https://github.com/CouncilDataProject/cdp-scrapers)
-
-    - [Sung Cho](https://github.com/dphoria)
+  - [Sung Cho](https://github.com/dphoria)
 
 #### Community
 
